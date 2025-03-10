@@ -1,0 +1,234 @@
+구분,Customer,Customer2,Location,Fab,IDM/Foundry,Country,Region,Origin,D/R,Device1,Device2,Device3,Grade,Grade1,Grade2,Team,사업,22.1Q,22.2Q,22.3Q,22.4Q,23.1Q,23.2Q,23.3Q,23.4Q,24.1Q,24.2Q,24.3Q,24.4Q,25.1Q,25.2Q,25.3Q,25.4Q,26.1Q,26.2Q,26.3Q,26.4Q,27.1Q,27.2Q,27.3Q,27.4Q,28.1Q,28.2Q,28.3Q,28.4Q
+거래고객,ICRD,ICRD,Shanghai,Fab1,Foundry,China,China,China,28,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,1,3,3,5,5,7,10,10,10,15,15,20,20,25,25,30,30,30,35,35,35,35,40,40,40,40,40,40
+거래고객,ICRD,ICRD,Shanghai,Fab1,Foundry,China,China,China,,CIS,BSI,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,2,2,2,2
+거래고객,GalaxyCore,GalaxyCore,Shanghai,Fab1,IDM,China,China,China,55nm,CIS,BSI,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,5,10,12,12,12,30,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35
+미거래고객,Wingtech,Wingtech,Shanghai,Fab1,IDM,China,China,China,55nm,Analog,Power,Analog,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,1,8,14,18,24,29,32,35,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40
+미거래고객,Wingtech,Wingtech,Shanghai,Fab1,IDM,China,China,China,55nm,CIS,BSI,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,1,3,6,7,8,9,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+미거래고객,Wingtech,Wingtech,Shanghai,Fab1,IDM,China,China,China,65nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,1,3,6,7,8,9,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,YMTC,YMTC,Wuhan,fab1,IDM,China,China,China,"64L,128L",NAND,NAND,Memory,PW,Prime,Polished,중국법인,메모리,95,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+거래고객,YMTC,YMTC,Wuhan,fab2,IDM,China,China,China,"128L,192L",NAND,NAND,Memory,PW,Prime,Polished,중국법인,메모리,0,0,0,0,0,0,0,0,0,0,10,10,10,10,20,40,60,80,100,100,100,100,100,100,100,100,100,100
+거래고객,XMC,XMC,Wuhan,Fab A,Foundry,China,China,China,55nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+거래고객,XMC,XMC,Wuhan,Fab A,Foundry,China,China,China,55nm,Logic,Logic,Logic,PW,Prime,Polished,중국법인,비메모리,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33,33
+거래고객,XMC,XMC,,,Foundry,China,China,China,,CIS,BSI,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,5,5,6,6,8,10,12,14,16,18,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+거래고객,SMIC,SMIC,Beijing,Fab2 B1,Foundry,China,China,China,55~90nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50
+거래고객,SMIC,SMIC,Beijing,Fab2 B1,Foundry,China,China,China,90nm,CIS,FSI/MCU,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,SMIC,SMIC,Beijing,Fab2 B1,Foundry,China,China,China,90nm,Logic,Logic,Logic,PW,Prime,Polished,중국법인,비메모리,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,SMIC,SMNC,Beijing,Fab2 B2,Foundry,China,China,China,,CIS,BSI,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,3,3,5,5,10,10,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15
+거래고객,SMIC,SMNC,Beijing,Fab2 B2,Foundry,China,China,China,28~40nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,53,53,53,53,55,55,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58,58
+거래고객,SMIC,SMBC,Beijing,FAB2 B3,Foundry,China,China,China,28nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,0,0,0,5,5,10,10,15,20,25,25,30,40,50,50,60,65,70,75,90,105,120,135,155
+거래고객,SMIC,SMOC,Shanghai,Fab9,Foundry,China,China,China,55~90nm,Analog,,Analog,PW,Prime,Polished,중국법인,비메모리,0,0,0,0,0,0,2,6,6,6,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+거래고객,SMIC,SMOC,Shanghai,Fab9,Foundry,China,China,China,55~90nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,0,0,0,0,5,15,25,30,30,35,35,40,40,45,45,50,55,60,60,65,80,92,92,92
+거래고객,SMIC,SMIC,Shanghai,Fab1(연구소),Foundry,China,China,China,28~40nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+거래고객,SMIC,SMSC,Shanghai,Fab8,Foundry,China,China,China,14~28nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,20,20,20,20,25,25,25,25,25,25,30,30,30,30,30,30,30,30,35,35,35,35,35,35,40,40,40,40
+거래고객,SMIC,SMIC,Shenzhen,Fab6,Foundry,China,China,China,55~90nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,5,5,10,10,20,20,30,30,30,30,30,30,32,32,32,32,32,32,32,32,35,35,35,35,35,35,35,35
+거래고객,SMIC,SMIC,Tianjin,New Fab,Foundry,China,China,China,28nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,10,10,15,15,20,25,30,30,35,40
+거래고객,SMIC,UNT,Shaoxing,,Foundry,China,China,China,,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,5,15,45,60,80,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+거래고객,Nexchip,Nexchip,Hefei,Fab 12M,Foundry,China,China,China,25,Logic,LDI,Logic,PW,Prime,Polished,중국법인,비메모리,25,25,25,25,35,35,45,45,50,50,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60
+거래고객,Nexchip,Nexchip,Hefei,Fab 12M,Foundry,China,China,China,55,CIS,BSI,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,20,20,20,20,25,25,25,25,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30
+거래고객,JHICC,JHICC,fujian,Fab1,IDM,China,China,China,,DRAM,DRAM,Memory,PW,Prime,Polished,중국법인,메모리,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,HUALI,Huali,Shanghai,Fab 5,Foundry,China,China,China,55nm,CIS,BSI,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15
+거래고객,HUALI,Huali,Shanghai,Fab 5,Foundry,China,China,China,40/55nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25
+거래고객,HUALI,HLIC,Shanghai,Fab 6,Foundry,China,China,China,28/40nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40
+거래고객,HUALI,HLIC,Shanghai,Fab 8,Foundry,China,China,China,22/28nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,10,10,15,15,20,20,25,25
+거래고객,HUALI,HLIC,Chengdu,Fab 10,Foundry,China,China,China,22/28nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,10,10,15,15,20,20,20,20,25,25,25,25
+거래고객,HH-Grace,HHGrace,Wuxi,Fab7,Foundry,China,China,China,65~90nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30
+거래고객,HH-Grace,HHGrace,Wuxi,Fab7,Foundry,China,China,China,55~90nm,CIS,FSI,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,HH-Grace,HHGrace,Wuxi,Fab7,Foundry,China,China,China,,Analog,,Analog,PW,Prime,Polished,중국법인,비메모리,25,25,25,25,25,25,30,35,35,35,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40
+거래고객,HH-Grace,HHGrace,Wuxi,Fab9,Foundry,China,China,China,,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,5,10,10,10,10,10,10,10,10,10,10,10
+거래고객,HH-Grace,HHGrace,Wuxi,Fab9,Foundry,China,China,China,,CIS,FSI,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,5,5,10,10,10,10,10,10,10,10,10
+거래고객,HH-Grace,HHGrace,Wuxi,Fab9,Foundry,China,China,China,,Analog,,Analog,PW,Prime,Polished,중국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,15,15,20,20,20,20,20,20,20,20,20
+거래고객,CXMT,CXMT,Hefei,Fab1,IDM,China,China,China,,DRAM,DRAM,Memory,PW,Prime,Polished,중국법인,메모리,65,75,80,80,80,80,80,80,85,90,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+거래고객,CXMT,CXXQ,Hefei,Fab2,IDM,China,China,China,,DRAM,DRAM,Memory,PW,Prime,Polished,중국법인,메모리,0,0,0,0,0,0,0,0,5,10,20,20,25,30,30,30,30,30,30,40,50,50,60,70,70,70,70,70
+거래고객,CXMT,CXJD,Beijing,CXJD,IDM,China,China,China,,DRAM,DRAM,Memory,PW,Prime,Polished,중국법인,메모리,0,5,10,15,15,15,15,20,30,40,40,70,75,80,85,90,95,100,100,100,100,100,100,100,100,100,100,100
+거래고객,CXMT,,,,IDM,China,China,China,,CIS,BSI,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,CANsemi,CANsemi,Guangzhou,Fab 1,IDM,China,China,China,,Logic,Logic,Logic,PW,Prime,Polished,중국법인,비메모리,8,9,11,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+거래고객,CANsemi,CANsemi,Guangzhou,Fab 1,IDM,China,China,China,,Analog,Power,Analog,EPI,EPI,Epitaxial,중국법인,비메모리,9,11,12,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14
+거래고객,CANsemi,CANsemi,Guangzhou,Fab 1,IDM,China,China,China,Sensor용,CIS,FSI,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,8,10,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+거래고객,CANsemi,CANsemi,Guangzhou,Fab 2,IDM,China,China,China,,Discrete,Discrete,Discrete,PW,Prime,Polished,중국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,2,5,7,7,10,10,12,12,15,15,17,17,20,20,20,20,20
+거래고객,CANsemi,CANsemi,Guangzhou,Fab 2,IDM,China,China,China,,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,3,5,8,8,10,10,13,13,15,15,18,18,20,20,20,20,20
+거래고객,CXT,CXT,Wuhan,,Foundry,China,China,China,,CIS,BSI,CIS,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,0,0,1,3,3,5,7,10,12,15,17,20,20,20,20,20,20,20,20,20,25,30,35,40
+거래고객,CSMC,Runpeng,Shenzhen,Runpeng,Foundry,China,China,China,,Logic,Logic,Logic,EPI,EPI,Epitaxial,중국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,5,10,15,20,30,30,35,40,40,40,40,40,40,40,40,40
+거래고객,USJC,USJC,Mie,Fab 1,Foundry,Japan,Japan,Taiwan,60,CIS,CIS,CIS,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,USJC,USJC,Mie,Fab 2,Foundry,Japan,Japan,Taiwan,90,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,USJC,USJC,Mie,Fab 2,Foundry,Japan,Japan,Taiwan,-,Logic,Logic,Logic,PW,Anneal,Annealed,대만지사,비메모리,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,USJC,USJC,Mie,Fab 2,Foundry,Japan,Japan,Taiwan,65/55,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15
+거래고객,Micron,MMJ,Hiroshima,Fab 15,IDM,Japan,Japan,USA,25/20,DRAM,DRAM,Memory,PW,Prime,Polished,일본법인,메모리,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130
+거래고객,Micron,MMJ,Hiroshima,New,IDM,Japan,Japan,USA,25/20,DRAM,DRAM,Memory,PW,Prime,Polished,일본법인,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,4,20,20,20,20
+거래고객,Renesas,Renesas,Hitachinaka,Naka2,IDM,Japan,Japan,Japan,65~130,Logic,Logic,Logic,PW,Prime,Polished,일본법인,비메모리,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+거래고객,Renesas,Renesas,Hitachinaka,Naka2,IDM,Japan,Japan,Japan,65~130,Logic,Logic,Logic,EPI,EPI,Epitaxial,일본법인,비메모리,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+거래고객,Renesas,Renesas,Hitachinaka,Kofu,IDM,Japan,Japan,Japan,65~130,Discrete,Discrete,Discrete,PW,Prime,Polished,일본법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,3,3,3,4,4,4,4,6,6,6,6
+거래고객,Renesas,Renesas,Hitachinaka,Kofu,IDM,Japan,Japan,Japan,65~130,Discrete,Discrete,Discrete,EPI,EPI,Epitaxial,일본법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,1,1,1,1,1,1,2,2,2,2,2,2,2,2
+거래고객,ROHM,Rohm,-,Hamamatsu,IDM,Japan,Japan,Japan,90~180,Logic,Logic,Logic,EPI,EPI,Epitaxial,일본법인,비메모리,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+거래고객,ROHM,Rohm,-,Hamamatsu,IDM,Japan,Japan,Japan,90~180,Logic,Logic,Logic,PW,Prime,Polished,일본법인,비메모리,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+거래고객,SONY,Sony,Kumamoto ,"Tec 1,2",IDM,Japan,Japan,Japan,60~90,CIS,BSI,CIS,PW,Prime,Polished,일본법인,비메모리,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919,23.18918919
+거래고객,SONY,Sony,Nagasaki ,"Fab 2,3,4",IDM,Japan,Japan,Japan,60~90,CIS,BSI,CIS,EPI,EPI,Epitaxial,일본법인,비메모리,19.32432432,19.32432432,19.62837838,19.7972973,19.86486486,19.93243243,20,20.06756757,20.2027027,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25
+거래고객,SONY,Sony,Tsuruoka ,Tsuruoka Plant,IDM,Japan,Japan,Japan,60~90,CIS,BSI,CIS,PW,Prime,Polished,일본법인,비메모리,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892,30.91891892
+거래고객,SONY,Sony,Oita,-,IDM,Japan,Japan,Japan,90,CIS,BSI,CIS,PW,Anneal,Annealed,일본법인,비메모리,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459,11.59459459
+거래고객,SONY,Sony,Nagasaki,"Fab 2,3,4",IDM,Japan,Japan,Japan,,CIS,BSI,CIS,PW,Prime,Polished,일본법인,비메모리,30.91891892,30.91891892,32.86486486,33.94594595,34.37837838,34.81081081,35.24324324,35.67567568,36.54054054,32.74324324,33.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324,34.74324324
+거래고객,SONY,Sony,Oita,-,IDM,Japan,Japan,Japan,-,Logic,Logic,Logic,PW,Prime,Polished,일본법인,비메모리,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405,27.05405405
+거래고객,Globalfoundries,Globalfoundries,New York,Fab 8,Foundry,USA,USA,USA,14nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,유럽지사,비메모리,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35
+거래고객,Globalfoundries,Globalfoundries,New York,Fab 8,Foundry,USA,USA,USA,14nm,Logic,Logic,Logic,PW,SOI,SOI,유럽지사,비메모리,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+거래고객,Globalfoundries,Globalfoundries,New York,Fab 8_New,Foundry,USA,USA,USA,14/28nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,유럽지사,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,5,5,5,5,5,10,10,10,10
+거래고객,Globalfoundries,Globalfoundries,New York,Fab 8_New,Foundry,USA,USA,USA,14/28nm,Logic,Logic,Logic,PW,SOI,SOI,유럽지사,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,5,5,5,5,5,5,5,5,5
+거래고객,Kioxia,Kioxia,Yokkaichi,Y3~Y6,IDM,Japan,Japan,Japan,15nm / 2D,NAND,NAND,Memory,PW,Prime,Polished,일본법인,메모리,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90
+거래고객,Kioxia,Kioxia,Yokkaichi,Y3~Y6,IDM,Japan,Japan,Japan,3D,NAND,NAND,Memory,PW,Prime,Polished,일본법인,메모리,400,400,400,400,405,405,405,405,285,245,245,245,225,225,215,205,230,255,280,280,260,260,260,240,250,250,250,250
+거래고객,Kioxia,Kioxia,Iwate (Kitakami시),K1,IDM,Japan,Japan,Japan,3D,NAND,NAND,Memory,PW,Prime,Polished,일본법인,메모리,120,120,120,120,120,120,120,120,120,120,120,120,110,110,110,110,100,100,100,100,90,90,90,90,80,80,80,80
+거래고객,Kioxia,Kioxia,Yokkaichi,Y7,IDM,Japan,Japan,Japan,3D,NAND,NAND,Memory,PW,Prime,Polished,일본법인,메모리,0,0,0,0,0,0,10,10,20,60,60,60,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90
+거래고객,Kioxia,Kioxia,Iwate (Kitakami시),K2,IDM,Japan,Japan,Japan,3D,NAND,NAND,Memory,PW,Prime,Polished,일본법인,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,20,30,50,50,70,80,80,80,100,100,100,100,100
+거래고객,INTEL,Intel,Dalian,Fab 68,IDM,China,China,USA,3D,NAND,NAND,Memory,PW,Prime,Polished,미국법인,메모리,90,90,90,90,90,90,90,90,90,90,90,90,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,INTEL,Intel,Oregon,D1D,IDM,USA,USA,USA,10nm,MPU,MPU,MPU,EPI,EPI,Epitaxial,미국법인,비메모리,82,82,86,86,75,75,55,45,8,8,8,8,8,8,8,8,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,INTEL,Intel,Oregon,D1X,IDM,USA,USA,USA,2nm,MPU,MPU,MPU,EPI,EPI,Epitaxial,미국법인,비메모리,0,0,0,0,10,10,20,20,23,23,23,23,15,15,15,15,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,INTEL,Intel,New Mexico,Fab 11X,IDM,USA,USA,USA,22/32/45nm,MPU,MPU/3DXP,MPU,EPI,EPI,Epitaxial,미국법인,비메모리,5,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,15,15,15,15,39,39,39,39,39,39,39,39
+거래고객,INTEL,Intel,New Mexico,New,IDM,USA,USA,USA,WLA(Wafer Level Assembly),Packaging,WLA,Packaging,PW,Pre,Premium,미국법인,비메모리,20,20,20,20,20,20,20,20,24,24,24,24,24,24,24,24,38,38,52,52,65,65,78,78,104,104,158,158
+거래고객,INTEL,Intel,Malaysia,Penang,IDM,USA,USA,USA,WLA(Wafer Level Assembly),Packaging,WLA,Packaging,PW,Pre,Premium,미국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,7,7,20,20,20,20,40,40,40,40
+거래고객,INTEL,Intel,Arizona,Fab 12/32/42,IDM,USA,USA,USA,7/10/14/22nm,MPU,MPU,MPU,EPI,EPI,Epitaxial,미국법인,비메모리,60,60,60,60,60,60,60,60,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70
+거래고객,INTEL,Intel,Lexlip,Fab 24,IDM,Ireland,EU,USA,14nm,MPU,MPU,MPU,EPI,EPI,Epitaxial,미국법인,비메모리,55,55,60,60,62,62,58,58,39,39,39,39,31,31,31,31,15,15,15,15,15,15,15,15,23,23,23,23
+거래고객,INTEL,Intel,Lexlip,Fab 34/44,IDM,Ireland,EU,USA,10nm,MPU,MPU,MPU,EPI,EPI,Epitaxial,미국법인,비메모리,0,0,0,0,0,0,10,20,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50
+거래고객,INTEL,Intel,Kiryat Gat,Fab 28,IDM,Israel,AP,USA,10nm,MPU,MPU,MPU,EPI,EPI,Epitaxial,미국법인,비메모리,40,40,45,45,45,45,45,45,50,50,50,50,50,50,50,50,30,30,30,30,20,20,20,20,19,19,19,19
+거래고객,INTEL,Intel,Kiryat Gat,Fab 38/48,IDM,Israel,AP,USA,10nm(Intel3),MPU,MPU,MPU,EPI,EPI,Epitaxial,미국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,20,20,38,38,38,38,60,60,60,60
+거래고객,INTEL,Intel,Arizona,"Fab 52,62",Foundry,USA,USA,USA,7nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,미국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,24,24,24,24,67,67,67,67,114,114,114,114,124,124,124,124
+거래고객,INTEL,Intel,EU,"Fab 29,39",Foundry,Germany,EU,USA,7nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,미국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,15,15,15,39,39,39,39,54,54,54,54
+거래고객,INTEL,Intel,Ohio,"Fab 27,37",Foundry,USA,USA,USA,7nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,미국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,23,23,23
+거래고객,On Semi,On Semi,NY East Fishkill,Fab 10,IDM,USA,USA,USA,65nm,CIS,BSI,CIS,EPI,EPI,Epitaxial,미국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,2.210526316,2.210526316,2.210526316,2.210526316,4.328,4.328,4.328,4.328,6.843,6.843,6.843,6.843,11.7,11.7,11.7,11.7
+거래고객,On Semi,On Semi,NY East Fishkill,Fab 10,IDM,USA,USA,USA,22~65nm,Analog,Analog,Analog,PW,Prime,Polished,미국법인,비메모리,8.74,10.173,11.68,14.467,18,18,18,18,18,18,18,18,18,18,18,18,19,19,19,19,21,21,21,21,23,23,23,23
+거래고객,On Semi,On Semi,NY East Fishkill,Fab 10,IDM,USA,USA,USA,65/45nm,Analog,RF,Analog,PW,SOI,SOI,미국법인,비메모리,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,Micron,Micron,Utah,Fab 2,IDM,USA,USA,USA,1Xnm,NAND,NAND,Memory,PW,Prime,Polished,미국법인,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,Micron,Micron,Boise,Fab 4,IDM,USA,USA,USA,2Xnm,DRAM,DRAM,Memory,PW,Prime,Polished,미국법인,메모리,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+거래고객,Micron,Micron,Virginia,Fab 6,IDM,USA,USA,USA,2Xnm,DRAM,DRAM,Memory,PW,Prime,Polished,미국법인,메모리,20,20,30,30,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24
+거래고객,Micron,Micron,Virginia,Fab 6,IDM,USA,USA,USA,1Xnm,NAND,NAND,Memory,PW,Prime,Polished,미국법인,메모리,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44,44
+거래고객,Micron,Micron,Virginia,Fab 6,IDM,USA,USA,USA,45nm,NOR,NOR,Memory,EPI,EPI,Epitaxial,미국법인,메모리,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+거래고객,Micron,Micron,Boise,New,IDM,USA,USA,USA,?,DRAM,DRAM,Memory,PW,Prime,Polished,미국법인,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,4,10,10,10,10,10,10,10,10
+거래고객,Micron,Micron,New York,New,IDM,USA,USA,USA,?,DRAM,DRAM,Memory,PW,Prime,Polished,미국법인,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,4
+거래고객,SEC,SAS,Austin,S2(SAS),Foundry,USA,USA,Korea,14/28/32nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,LC영업,비메모리,93,93,93,93,96,96,100,100,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105
+거래고객,SEC,SAS,Austin,SAS,Foundry,USA,USA,Korea,65nm,Logic,Logic,Logic,PW,Prime,Polished,LC영업,비메모리,15,15,15,15,12,12,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,SEC,SAS,Taylor,T1(Fab1),Foundry,USA,USA,Korea,5nm/7nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,LC영업,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,7,10,10,15,15,20,20,25,25,28
+거래고객,SEC,SAS,Taylor,T1(Fab2),Foundry,USA,USA,Korea,5nm/7nm,Logic,Logic,Logic,EPI,EPI,Epitaxial,LC영업,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,7,10,15,20,30
+거래고객,TI,TI,Texas,DMOS6/RFab1,IDM,USA,USA,USA,180nm,Analog,Analog,Analog,PW,Prime,Polished,미국법인,비메모리,80,80,80,80,80,80,80,80,80,80,80,80,80,80,80,80,90,90,90,90,90,90,90,90,90,90,90,90
+거래고객,TI,TI,Texas,RFab1(DMOS6),IDM,USA,USA,USA,,Analog,Analog,Analog,EPI,EPI,Epitaxial,미국법인,비메모리,0,0,0,0,0,0,0,0,10,10,10,10,10,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,TI,TI,Texas,RFab2,IDM,USA,USA,USA,180nm,Analog,Analog,Analog,PW,Prime,Polished,미국법인,비메모리,0,0,20,20,28,28,28,28,60,60,60,60,65,65,65,65,65,65,65,65,65,65,65,65,70,70,70,70
+거래고객,TI,TI,Utah,LFab,IDM,USA,USA,USA,?,Analog,Analog,Analog,PW,Prime,Polished,미국법인,비메모리,0,0,0,0,5,5,5,5,15,15,15,15,20,25,35,40,40,40,40,40,50,50,50,50,60,60,60,60
+거래고객,TI,TI,Utah,LFab,IDM,USA,USA,USA,?,Analog,Analog,Analog,EPI,EPI,Epitaxial,미국법인,비메모리,0,0,0,0,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+거래고객,TI,TI,Texas,Sherman,IDM,USA,USA,USA,?,Analog,Analog,Analog,PW,Prime,Polished,미국법인,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,15,15,15,15,20,20,20,20,30,30,30,30
+거래고객,UMC,USC,Xiamen,12X,Foundry,China,China,Taiwan,"28,40",Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,25,25,25,25,25,25,25,25,32,32,32,32,38,38,38,38,41,41,41,41,44,44,44,44,47,47,47,47
+거래고객,TSMC,TSMC,Nanjing,Fab 16B,Foundry,China,China,Taiwan,28,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30
+거래고객,TSMC,TSMC,Nanjing,Fab 16A,Foundry,China,China,Taiwan,16,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,25,25,25,25,25,25,25,25,25,25,25,25,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50
+거래고객,Micron,MTTW,Linkou,Fab 11A,IDM,Taiwan,Taiwan,USA,20,DRAM,DRAM,Memory,PW,Prime,Polished,미국법인,메모리,60,60,60,60,60,60,60,60,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50
+거래고객,Micron,MTTW,Linkou,Fab 11B,IDM,Taiwan,Taiwan,USA,20,DRAM,DRAM,Memory,PW,Prime,Polished,미국법인,메모리,60,60,60,60,60,60,60,60,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50
+거래고객,Micron,MMT,Taichung,Fab 16,IDM,Taiwan,Taiwan,USA,"1X, 25",DRAM,DRAM,Memory,PW,Prime,Polished,미국법인,메모리,90,90,90,90,90,90,90,90,86,86,86,86,92,92,92,92,92,92,92,92,92,92,92,92,92,92,92,92
+거래고객,MXIC,MXIC,Hsinchu,Fab 5,IDM,Taiwan,Taiwan,Taiwan,"55,75",NOR,NOR,Memory,EPI,EPI,Epitaxial,대만지사,메모리,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+거래고객,MXIC,MXIC,Hsinchu,Fab 5,IDM,Taiwan,Taiwan,Taiwan,"36,19",Nand,Nand,Memory,PW,Anneal,Annealed,대만지사,메모리,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,MXIC,MXIC,Hsinchu,Fab 5,IDM,Taiwan,Taiwan,Taiwan,32,DRAM,DRAM,Memory,PW,Prime,Polished,대만지사,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,5,5,5,5,5,10,10,10,10
+거래고객,NANYA,Nanya,Taoyuan,Fab 3A,IDM,Taiwan,Taiwan,Taiwan,25,DRAM,DRAM,Memory,PW,Prime,Polished,대만지사,메모리,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75
+거래고객,NANYA,Nanya,Taoyuan,Fab 5A,IDM,Taiwan,Taiwan,Taiwan,1A/1B,DRAM,DRAM,Memory,PW,Prime,Polished,대만지사,메모리,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,15,15,15,15,30,30,30,30,45,45,45,45
+거래고객,PSMC,PSMC,Hsinchu,P1/P2/P3,Foundry,Taiwan,Taiwan,Taiwan,45/25nm,Analog,"RF, NFC, MCU",Analog,EPI,EPI,Epitaxial,대만지사,비메모리,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+거래고객,PSMC,PSMC,Hsinchu,P1/P2/P3,Foundry,Taiwan,Taiwan,Taiwan,45/25nm,CIS,FSI ,CIS,EPI,EPI,Epitaxial,대만지사,비메모리,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+거래고객,PSMC,PSMC,Hsinchu,P1/P2/P3,Foundry,Taiwan,Taiwan,Taiwan,45/25nm,Logic,DDI ,Logic,PW,Anneal,Annealed,대만지사,비메모리,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15,15
+거래고객,PSMC,PSMC,Hsinchu,P1/P2/P3,Foundry,Taiwan,Taiwan,Taiwan,45/25nm,Logic,DDI ,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,PSMC,PSMC,Hsinchu,P1/P2/P3,Foundry,Taiwan,Taiwan,Taiwan,,Logic,,,PW,Prime,Polished,대만지사,비메모리,0,0,0,0,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+거래고객,PSMC,PSMC,Hsinchu,P1/P2/P3,Foundry,Taiwan,Taiwan,Taiwan,45/25nm,DRAM,DRAM,Memory,PW,Prime,Polished,대만지사,메모리,40,40,40,40,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35
+거래고객,PSMC,PSMC,Miaoli (Tongluo),P5,Foundry,Taiwan,Taiwan,Taiwan,,Logic,Logic,Logic,PW,PW,Polished,대만지사,비메모리,0,0,0,0,0,0,0,0,4,4,4,4,9,9,9,9,17.5,17.5,17.5,17.5,25,25,25,25,25,25,25,25
+거래고객,PSMC,PSMC,Miaoli (Tongluo),P5,Foundry,Taiwan,Taiwan,Taiwan,,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,4,4,4,4,9,9,9,9,17.5,17.5,17.5,17.5,25,25,25,25,25,25,25,25
+거래고객,PSMC,PSMC,Miaoli (Tongluo),P5,Foundry,Taiwan,Taiwan,Taiwan,,CIS,BSI,CIS,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,PSMC,JSMC,Miaoli (Tongluo),JSMC,Foundry,Taiwan,Taiwan,Taiwan,,DRAM,DRAM,Memory,PW,Prime,Polished,대만지사,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,5,10,10,10,10
+거래고객,PSMC,JSMC,Miaoli (Tongluo),JSMC,Foundry,Taiwan,Taiwan,Taiwan,,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,5,10,10,10,10
+거래고객,TSMC,TSMC,Hsinchu,Fab 12A,Foundry,Taiwan,Taiwan,Taiwan,"16,20,40,65,90",Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,60,60,60,60,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50
+거래고객,TSMC,TSMC,Hsinchu,Fab 12A,Foundry,Taiwan,Taiwan,Taiwan,130,BCD,BCD,BCD,PW,Prime,Polished,대만지사,비메모리,50,50,50,50,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60
+거래고객,TSMC,TSMC,Hsinchu,Fab 12B,Foundry,Taiwan,Taiwan,Taiwan,,Logic,Logic,Logic,PW,Prime,Polished,대만지사,비메모리,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35
+거래고객,TSMC,TSMC,Tainan,Fab 14A,Foundry,Taiwan,Taiwan,Taiwan,,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160,160
+거래고객,TSMC,TSMC,Tainan,Fab 14B,Foundry,Taiwan,Taiwan,Taiwan,"16,20,28,40,65,90",Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200
+거래고객,TSMC,TSMC,Tainan,Fab 14A,Foundry,Taiwan,Taiwan,Taiwan,"28,40",CIS,BSI,CIS,EPI,EPI,Epitaxial,대만지사,비메모리,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30
+거래고객,TSMC,TSMC,Tainan,Fab 14A,Foundry,Taiwan,Taiwan,Taiwan,40,BCD,BCD,BCD,PW,Prime,Polished,대만지사,비메모리,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30
+거래고객,TSMC,TSMC,Taichung,Fab 15A,Foundry,Taiwan,Taiwan,Taiwan,28,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180
+거래고객,TSMC,TSMC,Taichung,Fab 15B,Foundry,Taiwan,Taiwan,Taiwan,7,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180
+거래고객,TSMC,TSMC,Tainan,Fab 18A,Foundry,Taiwan,Taiwan,Taiwan,5,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,115,115,115,115,115,115,115,115,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130
+거래고객,TSMC,TSMC,Tainan,Fab 18B,Foundry,Taiwan,Taiwan,Taiwan,3,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,10,10,10,10,60,60,60,60,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+거래고객,TSMC,TSMC,Kaoshung,Fab 22(KH),Foundry,Taiwan,Taiwan,Taiwan,3,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,20,20,20,20,40,40,40,40,50,50,50,50,50,50,50,50
+거래고객,TSMC,TSMC,Kaoshung,Fab 22(KH),Foundry,Taiwan,Taiwan,Taiwan,5,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,TSMC,TSMC,Hsinchu,FAB20,Foundry,Taiwan,Taiwan,Taiwan,2,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,20,20,20,20,40,40,40,40,100,100,100,100,100,100,100,100,120,120,120,120
+거래고객,TSMC,TSMC,Kumamoto ,NEW(Fab23A),Foundry,Japan,Japan,Taiwan,28,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,40,40,40,40,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55
+거래고객,TSMC,TSMC,Kumamoto ,NEW(Fab23B),Foundry,Japan,Japan,Taiwan,28,CIS,BSI,CIS,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,30,30,30,50,50,50,50,50,50,50,50
+거래고객,TSMC,TSMC,AZ,FAB21,Foundry,USA,USA,Taiwan,5,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,20,20,20,20,30,30,30,30,50,50,50,50,50,50,50,50,50,50,50,50
+거래고객,TSMC,ESMC,Germany,ESMC,Foundry,Germany,Germany,Taiwan,,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,20,20,40,40,40,40
+거래고객,UMC,UMC,Tainan,12A,Foundry,Taiwan,Taiwan,Taiwan,"22,28,40,55",Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,100,100,100,100,100,100,100,100,120,120,129,129,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130,130
+거래고객,Winbond,Winbond,Taichung,Fab 6,IDM,Taiwan,Taiwan,Taiwan,,NAND,NAND,Memory,EPI,EPI,Epitaxial,대만지사,메모리,3,3,3,3,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+거래고객,Winbond,Winbond,Taichung,Fab 6A,IDM,Taiwan,Taiwan,Taiwan,,DRAM,DRAM,Memory,PW,Prime,Polished,대만지사,메모리,10,10,10,10,7,7,7,7,7,7,7,7,10,10,10,10,6,6,6,6,6,6,6,6,6,6,6,6
+거래고객,Winbond,Winbond,Taichung,Fab 6A,IDM,Taiwan,Taiwan,Taiwan,,NOR,NOR,Memory,EPI,EPI,Epitaxial,대만지사,메모리,13,13,13,13,15,15,15,15,15,15,15,15,12,12,12,12,16,16,16,16,16,16,16,16,16,16,16,16
+거래고객,Winbond,Winbond,Taichung,Fab 6B,IDM,Taiwan,Taiwan,Taiwan,,DRAM,DRAM,Memory,PW,Prime,Polished,대만지사,메모리,10,10,10,10,7,7,7,7,7,7,7,7,10,10,10,10,6,6,6,6,6,6,6,6,6,6,6,6
+거래고객,Winbond,Winbond,Taichung,Fab 6B,IDM,Taiwan,Taiwan,Taiwan,,NOR,NOR,Memory,EPI,EPI,Epitaxial,대만지사,메모리,13,13,13,13,15,15,15,15,15,15,15,15,12,12,12,12,16,16,16,16,16,16,16,16,16,16,16,16
+거래고객,Winbond,Winbond,Taichung,Fab 6C,IDM,Taiwan,Taiwan,Taiwan,,DRAM,DRAM,Memory,PW,Prime,Polished,대만지사,메모리,5,5,5,5,4,4,4,4,3,3,3,3,5,5,5,5,3,3,3,3,3,3,3,3,3,3,3,3
+거래고객,Winbond,Winbond,Taichung,Fab 6C,IDM,Taiwan,Taiwan,Taiwan,,NOR,NOR,Memory,EPI,EPI,Epitaxial,대만지사,메모리,7,7,7,7,7,7,7,7,8,8,8,8,6,6,6,6,8,8,8,8,8,8,8,8,8,8,8,8
+거래고객,Winbond,Winbond,Gaoshong,Fab 6D,IDM,Taiwan,Taiwan,Taiwan,25,DRAM,DRAM,Memory,PW,Prime,Polished,대만지사,메모리,0,0,0,0,10,10,10,10,15,15,15,15,20,20,20,20,30,30,30,30,30,30,30,30,30,30,30,30
+거래고객,SEC,SCS,Xian,X1,IDM,China,China,Korea,3D,NAND,NAND,Memory,PW,Prime,Polished,LC영업,메모리,130,130,130,130,130,130,130,130,100,100,100,100,100,100,100,100,98,98,98,98,96,96,96,96,94,94,94,94
+거래고객,SEC,SCS,Xian,X2,IDM,China,China,Korea,3D,NAND,NAND,Memory,PW,Prime,Polished,LC영업,메모리,150,150,150,150,150,150,150,150,120,120,120,120,120,120,120,120,118,118,118,118,116,116,116,116,114,114,114,114
+거래고객,SEC,SCS,Xian,X3,IDM,China,China,Korea,3D,NAND,NAND,Memory,PW,Prime,Polished,LC영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,SEC,SEC,Hwaseong,Line 11,IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,LC영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,SEC,SEC,Hwaseong,Line 13,IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,LC영업,메모리,95,95,87,87,83,80,73,70,30,30,30,30,30,30,30,30,29,29,29,29,28,28,28,28,27,27,27,27
+거래고객,SEC,SEC,Hwaseong,Line 15,IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,LC영업,메모리,225,225,225,225,221,221,221,221,150,150,150,150,150,150,150,150,147,147,147,147,144,144,144,144,141,141,141,141
+거래고객,SEC,SEC,Hwaseong,Line 12,IDM,South Korea,Korea,Korea,,NAND,NAND,Memory,PW,Prime,Polished,LC영업,메모리,120,120,120,120,120,120,120,120,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+거래고객,SEC,SEC,Hwaseong,Line 16,IDM,South Korea,Korea,Korea,3D,NAND,NAND,Memory,PW,Prime,Polished,LC영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,SEC,SEC,Hwaseong,Line 16,IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,LC영업,메모리,59,59,59,59,58,58,58,58,80,80,80,80,80,80,80,80,79,79,79,79,78,78,78,78,77,77,77,77
+거래고객,SEC,SEC,Hwaseong,Line 17(Ph1),IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,LC영업,메모리,110,110,110,110,108,108,108,108,95,95,95,95,95,95,95,95,93,93,93,93,91,91,91,91,89,89,89,89
+거래고객,SEC,SEC,Pyeongtack,P1,IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,LC영업,메모리,99,99,99,99,97,97,97,97,120,120,120,120,120,120,120,120,118,118,118,118,116,116,116,116,114,114,114,114
+거래고객,SEC,SEC,Pyeongtack,P1,IDM,South Korea,Korea,Korea,3D,NAND,NAND,Memory,PW,Prime,Polished,LC영업,메모리,196,196,196,196,193,193,193,203,80,80,80,80,80,80,80,80,79,79,79,79,78,78,78,78,77,77,77,77
+거래고객,SEC,SEC,Pyeongtack,P2,IDM,South Korea,Korea,Korea,3D,NAND,NAND,Memory,PW,Prime,Polished,LC영업,메모리,70,70,80,80,80,80,80,80,70,70,70,70,70,70,70,70,69,69,69,69,68,68,68,68,67,67,67,67
+거래고객,SEC,SEC,Pyeongtack,P2,IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,LC영업,메모리,140,150,160,160,160,160,160,160,120,120,120,120,120,120,120,120,118,118,118,118,116,116,116,116,114,114,114,114
+거래고객,SEC,SEC,Pyeongtack,P3,IDM,South Korea,Korea,Korea,3D,NAND,NAND,Memory,PW,Prime,Polished,LC영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,SEC,SEC,Pyeongtack,P3,IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,LC영업,메모리,0,0,10,20,30,30,50,50,80,80,90,100,110,110,110,110,110,110,110,110,108,108,108,108,106,106,106,106
+거래고객,SEC,SEC,Pyeongtack,P4,IDM,South Korea,Korea,Korea,3D,NAND,NAND,Memory,PW,Prime,Polished,LC영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,20,30,40,50,60,70,80,80,80,80,80,80
+거래고객,SEC,SEC,Pyeongtack,P4,IDM,South Korea,Korea,Korea,-,DRAM,DRAM,Memory,PW,Prime,Polished,LC영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,10,20,30,40,50,60,70,80,90,100,110,120,120,120,120
+거래고객,SEC,SEC,Pyeongtack,P5,IDM,South Korea,Korea,Korea,-,DRAM,DRAM,Memory,PW,Prime,Polished,LC영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,20
+거래고객,SEC,SEC,Giheung,S1,Foundry,South Korea,Korea,Korea,,CIS,BSI Sustain,CIS,PW,Prime,Polished,LC영업,비메모리,24,24,24,24,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25
+거래고객,SEC,SAS,Taylor,T2(Fab1),Foundry,USA,USA,Korea,,Logic,Logic,Logic,EPI,EPI,Epitaxial,LC영업,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+거래고객,SEC,SEC,Giheung,S1,Foundry,South Korea,Korea,Korea,,CIS,BSI*,CIS,EPI,EPI,Epitaxial,LC영업,비메모리,7,7,7,7,2,2,2,2,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+거래고객,SEC,SEC,Giheung,S1,Foundry,South Korea,Korea,Korea,,Logic,Logic,Logic,EPI,EPI,Epitaxial,LC영업,비메모리,70,70,70,70,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60
+거래고객,SEC,SEC,Hwaseong,S4(Line 11),Foundry,South Korea,Korea,Korea,,CIS,BSI*,CIS,EPI,EPI,Epitaxial,LC영업,비메모리,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48
+거래고객,SEC,SEC,Hwaseong,S6(Line 13),Foundry,South Korea,Korea,Korea,,CIS,BSI*,CIS,EPI,EPI,Epitaxial,LC영업,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,7,10,10,10,10,10,10,10,10
+거래고객,SEC,SAS,Austin,S2-2(SAS),Foundry,USA,USA,Korea,,Logic,Logic,Logic,EPI,EPI,Epitaxial,LC영업,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,SEC,SEC,Pyeongtack,S5(P2),Foundry,South Korea,Korea,Korea,,Logic,Logic,Logic,EPI,EPI,Epitaxial,LC영업,비메모리,38,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45
+거래고객,SEC,SEC,Hwaseong,S3 (Line 17 Ph2),Foundry,South Korea,Korea,Korea,,Logic,Logic,Logic,EPI,EPI,Epitaxial,LC영업,비메모리,47,50,50,50,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45
+거래고객,SEC,SEC,Pyeongtack,P3,Foundry,South Korea,Korea,Korea,,Logic,Logic,Logic,EPI,EPI,Epitaxial,LC영업,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,7,10,10,15,15,20,20,25,25,25,25,25,25
+거래고객,SEC,SEC,Pyeongtack,P4,Foundry,South Korea,New,Korea,-,Logic,Logic,Logic,EPI,EPI,Epitaxial,LC영업,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,SKHynix,SK hynix,Ichon,M10,IDM,South Korea,Korea,Korea,,CIS,BSI,CIS,EPI,EPI,Epitaxial,MC영업,비메모리,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+거래고객,SKHynix,SK hynix,Wuxi,C2,IDM,China,China,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,MC영업,메모리,210,220,220,220,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,190,190,190,190,180,180,180,180
+거래고객,SKHynix,SK hynix,Dalian,Fab 68,IDM,China,China,Korea,3D,NAND,NAND,Memory,PW,Prime,Polished,MC영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90
+거래고객,SKHynix,SK hynix,Ichon,M10,IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,MC영업,메모리,20,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,SKHynix,SK hynix,Ichon,M10,IDM,South Korea,Korea,Korea,,CIS,BSI Bonding,CIS,PW,Prime,Polished,MC영업,비메모리,6,8,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,SKHynix,SK hynix,Cheungju,"M11,12",IDM,South Korea,Korea,Korea,,NAND,NAND,Memory,PW,Prime,Polished,MC영업,메모리,110,110,110,110,100,100,100,100,50,50,50,50,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30,30
+거래고객,SKHynix,SK hynix,Ichon,M14 P1,IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,MC영업,메모리,190,190,190,190,190,190,190,190,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,180,170,170,170,170
+거래고객,SKHynix,SK hynix,Ichon,M14 P2,IDM,South Korea,Korea,Korea,,NAND,NAND,Memory,PW,Prime,Polished,MC영업,메모리,50,50,50,50,50,50,50,50,40,40,40,40,30,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,SKHynix,SK hynix,Ichon,M14 P2,IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,MC영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,20,20,20,30,30,30,30,40,40,40,40,40,40
+거래고객,SKHynix,SK hynix,Ichon,M10/14,IDM,South Korea,Korea,Korea,,R&D,R&D,Memory,PW,Prime,Polished,MC영업,비메모리,0,0,0,0,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+거래고객,SKHynix,SK hynix,Cheungju,M15 P1,IDM,South Korea,Korea,Korea,,NAND,NAND,Memory,PW,Prime,Polished,MC영업,메모리,80,80,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,80,80,80,80
+거래고객,SKHynix,SK hynix,Cheungju,M15 P2,IDM,South Korea,Korea,Korea,,NAND,NAND,Memory,PW,Prime,Polished,MC영업,메모리,0,0,0,0,0,0,0,20,20,20,30,30,40,40,50,50,60,60,60,60,60,60,60,60,70,70,70,70
+거래고객,SKHynix,SK hynix,Cheungju,M15X,IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,MC영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,15,25,40,50,60,70,80,90,90,90,90,90
+거래고객,SKHynix,SK hynix,Ichon,M16,IDM,South Korea,Korea,Korea,,DRAM,DRAM,Memory,PW,Prime,Polished,MC영업,메모리,70,80,80,90,90,90,90,90,100,110,120,120,130,130,140,140,150,150,150,150,150,150,150,150,150,150,150,150
+거래고객,SKHynix,SK hynix,Youngin,Y1,IDM,South Korea,Korea,Korea,-,DRAM,DRAM,Memory,PW,Prime,Polished,MC영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,15,25,35,45
+거래고객,SKHynix,SK hynix,Cheungju,M17,IDM,South Korea,Korea,Korea,,NAND,NAND,Memory,PW,Prime,Polished,MC영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,SKHynix,SK hynix,,,IDM,South Korea,Korea,Korea,,Packaging,TSV,Packaging,PW,Prime,Polished,MC영업,비메모리,0,0,0,0,45,45,45,45,105,105,105,105,145,145,145,145,145,145,145,145,145,145,145,145,145,145,145,145
+거래고객,Globalfoundries,Globalfoundries,Singapore,Fab 7,Foundry,Singapore,AP,USA,40/65n,Logic,Logic,Logic,EPI,EPI,Epitaxial,유럽지사,비메모리,60,60,60,60,60,60,60,60,60,60,60,60,65,65,65,65,65,65,65,65,65,65,65,65,65,65,65,65
+거래고객,Globalfoundries,Globalfoundries,Singapore,Fab 7H,Foundry,Singapore,AP,USA,40/65n,Logic,Logic,Logic,EPI,EPI,Epitaxial,유럽지사,비메모리,0,0,0,0,0,0,2,2,2,2,2,2,5,5,5,5,10,10,10,10,20,20,20,20,30,30,30,30
+거래고객,Globalfoundries,Globalfoundries,Singapore,Fab 7,Foundry,Singapore,AP,USA,,Logic,Logic,Logic,PW,Prime,Polished,유럽지사,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,Globalfoundries,Globalfoundries,Singapore,Fab 7,Foundry,Singapore,AP,USA,,Logic,Logic,Logic,PW,Anneal/RTA,Annealed,유럽지사,비메모리,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,Globalfoundries,Globalfoundries,Singapore,Fab 7,Foundry,Singapore,AP,USA,,Analog,RF,Analog,PW,SOI,SOI,유럽지사,비메모리,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+거래고객,Globalfoundries,Globalfoundries,Singapore,Fab 7H,Foundry,Singapore,AP,USA,,Analog,RF,Analog,PW,SOI,SOI,유럽지사,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,5,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,Micron,Micron,Singapore,Fab 10W,IDM,Singapore,AP,USA,,NAND,NAND,Memory,PW,Prime,Polished,SEA영업,메모리,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,40,40,40,40,40,40,40,40,40,40,40,40
+거래고객,Micron,Micron,Singapore,Fab 10N & 10X,IDM,Singapore,AP,USA,,NAND,NAND,Memory,PW,Prime,Polished,SEA영업,메모리,37,37,37,37,37,37,37,37,30,30,30,30,20,20,20,20,10,10,10,10,10,10,10,10,10,10,10,10
+거래고객,Micron,Micron,Singapore,Fab 10A_1,IDM,Singapore,AP,USA,,NAND,NAND,Memory,PW,Prime,Polished,SEA영업,메모리,80,80,80,80,80,80,80,80,90,90,90,90,105,105,105,105,125,125,125,125,125,125,125,125,125,125,125,125
+거래고객,Micron,Micron,Singapore,Fab 10A_2,IDM,Singapore,AP,USA,,NAND,NAND,Memory,PW,Prime,Polished,SEA영업,메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,11,11,11,20,20,20,20
+거래고객,Soitec,Soitec,Singapore,Singapore,IDM,Singapore,AP,France,,Logic,Logic,Logic,PW,Prime,Polished,SEA영업,비메모리,25,25,35,35,40,40,50,50,50,50,50,50,50,50,50,50,65,65,65,65,70,70,75,75,80,80,80,80
+거래고객,UMC,UMC,Singapore,12i,Foundry,Singapore,AP,Taiwan,,CIS,BSI,CIS,EPI,EPI,Epitaxial,대만지사,비메모리,0.631,0.631,0.631,0.631,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+거래고객,UMC,UMC,Singapore,12i,Foundry,Singapore,AP,Taiwan,,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,52,52,52,52,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50
+거래고객,UMC,UMC,Singapore,12i,Foundry,Singapore,AP,Taiwan,,Logic,Logic,Logic,PW,Anneal,Annealed,대만지사,비메모리,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,2.7,3,3,3,3
+거래고객,UMC,UMC,Singapore,12i,Foundry,Singapore,AP,Taiwan,,Logic,Logic,Logic,PW,Prime,Polished,대만지사,비메모리,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+거래고객,UMC,UMC,Singapore,12i P3,Foundry,Singapore,AP,Taiwan,,Logic,Logic,Logic,EPI,EPI,Epitaxial,대만지사,비메모리,0,0,0,0,0,0,0,0,0,0,3,3,15,15,15,15,30,30,30,30,30,30,30,30,30,30,30,30
+거래고객,STM,STM,Italia,Agrate (R3),IDM,Italia,EU,Italy,,Logic,BCD,Logic,EPI,EPI,Epitaxial,유럽지사,비메모리,1,1,1,1,2,2,2,2,3,3,3,3,5,5,5,5,8,8,8,8,13,13,13,13,15,15,15,15
+거래고객,Globalfoundries,Globalfoundries,Germany,Fab 1,Foundry,Germany,EU,USA,28/32,Logic,Logic,Logic,EPI,EPI,Epitaxial,유럽지사,비메모리,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,45,47,47,47,47,50,50,50,50,50,50,50,50
+거래고객,Globalfoundries,Globalfoundries,Germany,Fab 1,Foundry,Germany,EU,USA,28/32,Logic,Logic,Logic,PW,Anneal,Annealed,유럽지사,비메모리,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+거래고객,Globalfoundries,Globalfoundries,Germany,Fab 1,Foundry,Germany,EU,USA,28/32,Logic,Logic,Logic,PW,RTA,Annealed,유럽지사,비메모리,0,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+거래고객,Globalfoundries,Globalfoundries,Germany,Fab 1,Foundry,Germany,EU,USA,22,Logic,Logic,Logic,PW,SOI,SOI,유럽지사,비메모리,27,27,27,27,27,27,27,27,27,27,27,27,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28,28
+거래고객,Globalfoundries,Globalfoundries,France,Crolles2,Foundry,France,EU,USA,,Logic,Logic,Logic,PW,SOI,SOI,유럽지사,비메모리,0,0,0,0,1,1,1,1,1,1,1,1,10,10,10,10,15,15,15,15,25,25,25,25,25,25,25,25
+미거래고객,INFINEON,Infineon,Dresden,Power 300,IDM,Germany,EU,Germany,N-type,Discrete,Discrete,Discrete,PW,Prime,Polished,유럽지사,비메모리,75,75,75,75,80,80,80,80,85,85,85,85,90,90,90,90,100,100,100,100,100,100,100,100,100,100,100,100
+거래고객,Soitec,Soitec,France,Bernin,IDM,France,EU,France,65/45,Logic,Logic,Logic,PW,Prime,Polished,SEA영업,비메모리,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,70,80,80,80,80,90,90,90,90,100,100,100,100
+거래고객,STM,STM,France,Crolles2,IDM,France,EU,Italy,,Logic,Logic,Logic,PW,SOI,SOI,유럽지사,비메모리,11,11,11,11,13,13,13,13,13,13,13,13,14,14,14,14,15,15,15,15,17,17,17,17,19,19,19,19
+거래고객,STM,STM,France,Crolles2,IDM,France,EU,Italy,45/55/65,Logic,Logic,Logic,EPI,EPI,Epitaxial,유럽지사,비메모리,24,24,24,24,27,27,27,27,27,27,27,27,28,28,28,28,30,30,30,30,30,30,30,30,33,33,33,33
+미거래고객,INFINEON,Infineon,Villach,,IDM,Austria,EU,Germany,N-type,Discrete,Discrete,Discrete,PW,Prime,Polished,유럽지사,비메모리,23,23,23,23,43,43,43,43,60,60,60,60,80,80,80,80,95,95,95,95,95,95,95,95,95,95,95,95
