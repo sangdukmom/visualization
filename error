@@ -1,0 +1,32 @@
+---------------------------------------------------------------------------
+MaxRowsError                              Traceback (most recent call last)
+File c:\Users\SKSiltron\Desktop\project\signpost_project\signpost_project_env\Lib\site-packages\altair\vegalite\v5\api.py:2004, in TopLevelMixin.to_dict(self, validate, format, ignore, context)
+   2001 # remaining to_dict calls are not at top level
+   2002 context["top_level"] = False
+-> 2004 vegalite_spec: Any = _top_schema_base(super(TopLevelMixin, copy)).to_dict(
+   2005     validate=validate, ignore=ignore, context=dict(context, pre_transform=False)
+   2006 )
+   2008 # TODO: following entries are added after validation. Should they be validated?
+   2009 if is_top_level:
+   2010     # since this is top-level we add $schema if it's missing
+
+File c:\Users\SKSiltron\Desktop\project\signpost_project\signpost_project_env\Lib\site-packages\altair\utils\schemapi.py:1163, in SchemaBase.to_dict(self, validate, ignore, context)
+   1161     msg = f"{type(self)} instance has both a value and properties : cannot serialize to dict"
+   1162     raise ValueError(msg)
+-> 1163 result = _todict(kwds, context=context, **opts)
+   1164 if validate:
+   1165     # NOTE: Don't raise `from err`, see `SchemaValidationError` doc
+   1166     try:
+
+File c:\Users\SKSiltron\Desktop\project\signpost_project\signpost_project_env\Lib\site-packages\altair\utils\schemapi.py:554, in _todict(obj, context, np_opt, pd_opt)
+    551     return [_todict(v, context, np_opt, pd_opt) for v in obj]
+    552 elif isinstance(obj, dict):
+    553     return {
+--> 554         k: _todict(v, context, np_opt, pd_opt)
+...
+    >> import altair as alt
+    >> alt.data_transformers.enable("vegafusion")
+
+Or, see https://altair-viz.github.io/user_guide/large_datasets.html for additional information
+on how to plot large datasets.
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
